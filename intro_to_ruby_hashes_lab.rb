@@ -28,9 +28,9 @@ def monopoly_with_third_tier
       :pieces => 4,
       :rent_in_dollars => {
         :names => "something",
-        :key2 => "something",
-        :key3 => "something",
-        :key4 => "something"
+        :names => "something",
+        :names => "something",
+        :name => "something"
       }
     }
 	}
